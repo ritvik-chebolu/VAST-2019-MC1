@@ -24,7 +24,7 @@ The following are temporal radar plots that have the magnitude of shake intensit
 
 Radar plots can enhance the quality of analysis by showing not just the variations of magnitude over time, but also giving knowledge about the history of the incident. A simple time-series analysis of a radar plot is shown below.
 
-[![buildings_video](https://github.com/ritvik-chebolu/VAST-2019-MC1/blob/main/Plots/06%20Buildings.jpg)](https://github.com/ritvik-chebolu/VAST-2019-MC1/blob/main/Videos/Buildings.mp4 "buildings_video")
+[<img src="https://github.com/ritvik-chebolu/VAST-2019-MC1/blob/main/Plots/06%20Buildings.jpg">](https://drive.google.com/file/d/1a5tntjClQDG7E6qvMrPBVS_O-axgijHJ/view?usp=sharing "buildings")
 
 For example, Southton had a massive quake from 01:00 to 02:00 and everything was calm and settled after the hour. But after a while, when Terrapin Springs is in a critical state and in desperate need of emergency services, Southton could pitch in and help those in need since it doesn't need as much attention at the moment as Terrapin Springs.
 
