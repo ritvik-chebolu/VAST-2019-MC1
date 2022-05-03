@@ -18,6 +18,19 @@ With emergency services stretched thin, officials are relying on citizens to pro
 By combining seismic readings of the quake, responses from the app, and background knowledge of the city, help the city triage their efforts for rescue and recovery.
 
 
+## Analysis
+
+The following are temporal radar plots that have the magnitude of shake intensity or damage on the radial scale and time-scale on their circumferential path.
+
+Radar plots can enhance the quality of analysis by showing not just the variations of magnitude over time, but also giving knowledge about the history of the incident.
+
+https://user-images.githubusercontent.com/40500217/166403032-00915a3a-02a3-4021-8df6-7a999a7aa2f4.mp4
+
+For example, Southton had a massive quake from 01:00 to 02:00 and everything was calm and settled after the hour. But after a while, when Terrapin Springs is in a critical state and in desperate need of emergency services, Southton could pitch in and help those in need since it doesn't need as much attention at the moment as Terrapin Springs.
+
+![analysis_1](https://user-images.githubusercontent.com/40500217/166403056-a4059355-3c28-4982-ba3a-7c2e92c889d0.jpg)
+
+
 ## Documentation
 
 This repo has all the project files for the analysis of the VAST 2019 - Mini Challenge 1. For quick navigation, use the following links: 
