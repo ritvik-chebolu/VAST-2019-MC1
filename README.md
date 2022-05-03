@@ -29,9 +29,6 @@ This repo has all the project files for the analysis of the VAST 2019 - Mini Cha
 5. [Presentation slides](https://docs.google.com/presentation/d/1HwKqgrKsfbMVL6pniR0nguGpW6H6oG133SbCBqXQ2Nk/edit?usp=sharing)
 
 
-## Analysis
-
-
 ## Authors
 
 - [@ritvik-chebolu](https://github.com/ritvik-chebolu)
